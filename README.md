@@ -1,4 +1,4 @@
-# vue-dianshang
+# vue-dianshan
 
 ## Project setup
 ```
